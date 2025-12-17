@@ -19468,11 +19468,11 @@ SOFTWARE.
 
 --------------------------------------------------------------------------------
 Dependency : github.com/microsoft/go-mssqldb
-Version: v1.9.4
+Version: v1.9.5
 Licence type (autodetected): BSD-3-Clause
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/microsoft/go-mssqldb@v1.9.4/LICENSE.txt:
+Contents of probable licence file $GOMODCACHE/github.com/microsoft/go-mssqldb@v1.9.5/LICENSE.txt:
 
 Copyright (c) 2012 The Go Authors. All rights reserved.
 Copyright (c) Microsoft Corporation.
@@ -66377,11 +66377,11 @@ Exhibit B - "Incompatible With Secondary Licenses" Notice
 
 --------------------------------------------------------------------------------
 Dependency : github.com/shopspring/decimal
-Version: v1.3.1
+Version: v1.4.0
 Licence type (autodetected): MIT
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/shopspring/decimal@v1.3.1/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/shopspring/decimal@v1.4.0/LICENSE:
 
 The MIT License (MIT)
 
