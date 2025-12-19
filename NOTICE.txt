@@ -15306,11 +15306,11 @@ SOFTWARE.
 
 --------------------------------------------------------------------------------
 Dependency : github.com/go-resty/resty/v2
-Version: v2.17.0
+Version: v2.17.1
 Licence type (autodetected): MIT
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/go-resty/resty/v2@v2.17.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/go-resty/resty/v2@v2.17.1/LICENSE:
 
 The MIT License (MIT)
 
